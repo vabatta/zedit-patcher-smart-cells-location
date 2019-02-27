@@ -1,0 +1,14 @@
+{
+  "id": "PatcherSmartCellsLocation",
+  "name": "Smart: Cells' location patcher",
+  "author": "vabatta",
+  "version": "1.0.0",
+  "released": "25/01/2019",
+  "updated": "2/27/2019",
+  "description": "Experimental patcher to dynamically guess and assign locations to cells.",
+  "requires": [
+    "unifiedPatchingFramework"
+  ],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}
